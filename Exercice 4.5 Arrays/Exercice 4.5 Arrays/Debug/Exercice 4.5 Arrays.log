@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Solange\source\repos\SAE Institute\4.Exercices Arrays\Exercice 4.5 Arrays\Exercice 4.5 Arrays\main.cpp(19,12): warning C4244:  'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\Solange\source\repos\SAE Institute\4.Exercices Arrays\Exercice 4.5 Arrays\Exercice 4.5 Arrays\main.cpp(17,6): warning C4101:  'i' : variable locale non référencée
+  Exercice 4.5 Arrays.vcxproj -> C:\Users\Solange\source\repos\SAE Institute\4.Exercices Arrays\Exercice 4.5 Arrays\Debug\Exercice 4.5 Arrays.exe

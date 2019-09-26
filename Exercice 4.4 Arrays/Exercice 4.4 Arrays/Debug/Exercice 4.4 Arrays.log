@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Solange\source\repos\SAE Institute\4.Exercices Arrays\Exercice 4.4 Arrays\Exercice 4.4 Arrays\main.cpp(28,6): warning C4101:  'nbrCochons' : variable locale non référencée
+C:\Users\Solange\source\repos\SAE Institute\4.Exercices Arrays\Exercice 4.4 Arrays\Exercice 4.4 Arrays\main.cpp(25,6): warning C4101:  'dragon' : variable locale non référencée
+  Exercice 4.4 Arrays.vcxproj -> C:\Users\Solange\source\repos\SAE Institute\4.Exercices Arrays\Exercice 4.4 Arrays\Debug\Exercice 4.4 Arrays.exe
